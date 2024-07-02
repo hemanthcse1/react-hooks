@@ -1,6 +1,6 @@
 import Reac, { useState, useEffect } from "react";
 
-export default function MyComponent() {
+export default function UseEffectComponent() {
   const [count, setCount] = useState(0);
   const [color, setColor] = useState("blue");
 
